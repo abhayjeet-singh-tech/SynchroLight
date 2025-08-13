@@ -1,7 +1,3 @@
-Alright — here’s a **human-written README** for the original version of your `rgb_controller.py`, written so it feels personal yet professional and recruiter-friendly.
-
----
-
 # SpectraKeys
 
 **Audio-Reactive RGB Controller for Lenovo LOQ/Legion Keyboards**
@@ -55,18 +51,22 @@ pip install numpy librosa hidapi scipy
 
 ## Usage
 
-Usage:
-bash# Debug your HID setup
+**Usage**: Debug your HID setup
+```bash
 python rgb_controller.py --debug
-
-# Test keyboard connection  
+```
+**Test keyboard connection**  
+```bash
 python rgb_controller.py --test
-
-# Run with MP3
+```
+**Run with MP3**
+```bash
 python rgb_controller.py song.mp3
-Try this first:
-bashpython rgb_controller.py --debug
-
+```
+**Try this first:**
+```bash
+python rgb_controller.py --debug
+```
 ---
 
 ## Future Plans
