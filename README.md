@@ -1,4 +1,4 @@
-# SpectraKeys
+# SynchroLight (SpectraKeys)
 
 **Audio-Reactive RGB Controller for Lenovo LOQ/Legion Keyboards**
 
