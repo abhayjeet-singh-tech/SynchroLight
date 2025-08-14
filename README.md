@@ -89,3 +89,13 @@ This project is released under the **Apache License 2.0** so anyone can use, mod
 I’ve always liked projects that combine code with something physical you can see and enjoy. Writing SpectraKeys taught me about audio signal processing, timing in real-time applications, and low-level hardware protocols. Plus, it’s just fun to watch my keyboard dance to my music.
 
 ---
+
+## Credits
+The included test song is the instrumental version of:
+
+**Song:** Sub Urban - Cradles [NCS Release]  
+**Music provided by:** [NoCopyrightSounds](https://ncs.io)  
+**Free Download/Stream:** [http://ncs.io/Cradles](http://ncs.io/Cradles)  
+**Watch on YouTube:** [https://youtu.be/Hn4sfC2PbhI](https://youtu.be/Hn4sfC2PbhI)
+
+---
