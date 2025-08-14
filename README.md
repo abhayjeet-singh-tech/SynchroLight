@@ -96,6 +96,8 @@ The included test song is the instrumental version of:
 **Song:** Sub Urban - Cradles [NCS Release]  
 **Music provided by:** [NoCopyrightSounds](https://ncs.io)  
 **Free Download/Stream:** [http://ncs.io/Cradles](http://ncs.io/Cradles)  
-**Watch on YouTube:** [https://youtu.be/Hn4sfC2PbhI](https://youtu.be/Hn4sfC2PbhI)
+**Watch on YouTube:** [https://youtu.be/Hn4sfC2PbhI](https://youtu.be/Hn4sfC2PbhI)  
+
+Special thanks to the developers of **[L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB)** for their work reverse-engineering Lenovo Legion keyboard RGB protocols, which provided inspiration and technical reference for this project.
 
 ---
