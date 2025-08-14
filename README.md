@@ -19,6 +19,14 @@ I wanted something that combined audio processing, visual effects, and direct ha
 
 ---
 
+---
+
+## Demo
+
+![Demo-Cradles-NCS](https://github.com/user-attachments/assets/58c6c213-fcda-40bb-8b5a-98855e82e02a)
+
+---
+
 ## How It Works
 
 1. **Audio Input**
