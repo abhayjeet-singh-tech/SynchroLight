@@ -53,19 +53,19 @@ pip install numpy librosa hidapi scipy
 
 **Usage**: Debug your HID setup
 ```bash
-python rgb_controller.py --debug
+python SynchroLight.py --debug
 ```
 **Test keyboard connection**  
 ```bash
-python rgb_controller.py --test
+python SynchroLight.py --test
 ```
 **Run with MP3**
 ```bash
-python rgb_controller.py song.mp3
+python SynchroLight.py song.mp3
 ```
 **Try this first:**
 ```bash
-python rgb_controller.py --debug
+python SynchroLight.py --debug
 ```
 ---
 
